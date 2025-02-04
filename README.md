@@ -4,6 +4,25 @@
 Très intrigué par les nouvelles techologies et le développement, je suis actuellement étudiant à la Holberton Coding School afin de devenir un Développeur en herbe.
 J'aime expérimenter, structurer et découvrir de nouvelles choses!
 
-# Compétences et Technologies utilisées 
+# 🛠️ Compétences et Technologies utilisées 
 
-Langages : [C](https://camo.githubusercontent.com/cbc7ce4f6d9ba9dac1a8f41d269d900ed951c478aa2319fb8ef91d9d566a4e82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d4138423943433f6c6f676f3d63266c6f676f436f6c6f723d7768697465)
+Langages :
+<p>
+  <img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="C">
+  <img src="https://simpleicons.org/?modal=icon&q=python" height="40" alt="Python">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/typescript/007ACC" height="40" alt="TypeScript">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML">
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS">
+</p>
+
+Outils :
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git">
+</p>
+
+En Apprentissage :
+<p>
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#">
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity">
+</p>
