@@ -1,7 +1,7 @@
 ## Bonjour, je suis Pandor3 👋
 
 # Développeur - Concepteur d'Applications en formation à la Holberton Coding School
-Très intrigué par les nouvelles techologies et le développement, je suis actuellement étudiant à la Holberton Coding School afin de devenir un Développeur en herbe.
+Très intrigué par les nouvelles techologies et le développement, je suis actuellement étudiant à la Holberton Coding School (![Holberton](https://img.shields.io/badge/Holberton%20School-red?style=for-the-badge&logo=holbertonschool&logoColor=white)) afin de devenir un Développeur en herbe.
 J'aime expérimenter, structurer et découvrir de nouvelles choses!
 
 # 🛠️ Compétences et Technologies utilisées 
@@ -27,4 +27,8 @@ Outils :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
